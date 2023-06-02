@@ -75,7 +75,13 @@ body, h1, h2, h3, p, ul, li {
   }
   
   .product-card img {
-    width: 100%;
+    width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .image2{
+    width: 60%;
     height: auto;
     margin-bottom: 10px;
   }
